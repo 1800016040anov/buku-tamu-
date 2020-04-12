@@ -15,8 +15,6 @@ export class DialogKonfirmasiComponent implements OnInit {
   }
 konfirmasi()
   {
-
-
   this.dialogRef.close(true);
   }
   
